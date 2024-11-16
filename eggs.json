@@ -74,7 +74,7 @@
     "toast": {
       "title": "永乐桥上的风景",
       "text": "连绵不断的河流，像生命本身一样无法回头……",
-      "img": "https://data.one-among.us/img/ferris-wheel.png",
+      "img": "https://data.one-among.us/img/Tientsin-Eye.png",
       "width": 64,
       "height": 64
     }
@@ -120,6 +120,20 @@
       "img": "https://data.one-among.us/img/musical-score.png",
       "width": 64,
       "height": 64
+    }
+  },
+  {
+    "type": "open",
+    "userid": ["BI4PBV", "interrgned"],
+    "id": "radio",
+    "toast": {
+      "title": "跨过空间与距离",
+      "text": "­—· · ···­— · ·­—· / ·­—·· ­—­—­— ···­— · ­—·· / ­—·­—­— ­—­—­— ··­— / ··· ­—­—­— / ­—­— ··­— ­—·­—· ····",
+      "img": "https://data.one-among.us/img/radar.png",
+      "background": "black",
+      "width": 64,
+      "height": 64,
+      "color": "#f0f8feff"
     }
   }
 ]
